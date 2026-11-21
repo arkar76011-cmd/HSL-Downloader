@@ -24,6 +24,6 @@ A Python script that parses an `.m3u8` master playlist, selects the stream with 
 Clone the repository and install the Python dependencies:
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
+git clone [https://github.com/](https://github.com/)<arkar76011-cmd>/<HSL-Downloader>.git
 cd <your-repo-name>
 pip install -r requirements.txt
