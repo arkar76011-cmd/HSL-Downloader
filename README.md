@@ -27,7 +27,3 @@ Clone the repository and install the Python dependencies:
 git clone https://github.com/arkar76011-cmd/HSL-Downloader.git
 cd HSL-Downloader
 pip install -r requirements.txt
-
-
-master_url = "[https://example.com/index.m3u8](https://example.com/index.m3u8)"
-custom_title = ""  # Optional: set a custom output filename (without extension)
